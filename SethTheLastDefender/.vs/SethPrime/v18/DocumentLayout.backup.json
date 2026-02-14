@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\fsm\\modifiers\\dive\\divefollowupmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\fsm\\modifiers\\dive\\divefollowupmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\fsm\\modifiers\\dive\\divecombop2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\fsm\\modifiers\\dive\\divecombop2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\fsm\\sethfsmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\fsm\\sethfsmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\main\\in-game\\sethwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\main\\in-game\\sethwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\fsm\\modifiers\\cyclone\\cyclonemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\fsm\\modifiers\\cyclone\\cyclonemodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\fsm\\modifiers\\slash combo\\slashcombomodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\fsm\\modifiers\\slash combo\\slashcombomodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\main\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\main\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\fsm\\modifiers\\shield throw\\shieldthrowfeint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\fsm\\modifiers\\shield throw\\shieldthrowfeint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\fsm\\modifiers\\statemodifierbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\fsm\\modifiers\\statemodifierbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\fsm\\sethfsmdumper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\fsm\\sethfsmdumper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\fsm\\modifiers\\shield throw\\air\\ashieldthrowfollowupmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\fsm\\modifiers\\shield throw\\air\\ashieldthrowfollowupmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\fsm\\modifiers\\shield throw\\ground\\gshieldthrowfollowupmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\fsm\\modifiers\\shield throw\\ground\\gshieldthrowfollowupmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\customactions\\utils\\callmethodaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\customactions\\utils\\callmethodaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\customactions\\utils\\sendeventactioncustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\customactions\\utils\\sendeventactioncustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\customactions\\weightedrandomeventaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\customactions\\weightedrandomeventaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\customactions\\p3 transition\\phase3customhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\customactions\\p3 transition\\phase3customhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\customactions\\audio\\playclipdelayedaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\customactions\\audio\\playclipdelayedaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\customactions\\audio\\playclipaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\customactions\\audio\\playclipaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\main\\sethprimemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\main\\sethprimemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\customactions\\audio\\playrandomclipaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\customactions\\audio\\playrandomclipaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\customactions\\audio\\setallmusicsources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\customactions\\audio\\setallmusicsources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\main\\in-game\\changers\\healthchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\main\\in-game\\changers\\healthchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\fsm\\sethfsmlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\fsm\\sethfsmlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\fsm\\fsmhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\fsm\\fsmhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\patches\\animationpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\patches\\animationpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\patches\\sethdamageoverride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\patches\\sethdamageoverride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|c:\\users\\carca\\onedrive\\bureau\\vscode\\sethprime - p1 fini, pattern p2 \u002B pattern p3\\source\\main\\in-game\\changers\\damagechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741978E2-935B-44E0-3CEE-B6ED4D19CE58}|SethPrime.csproj|solutionrelative:source\\main\\in-game\\changers\\damagechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiveComboP2.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Dive\\DiveComboP2.cs",
+              "RelativeDocumentMoniker": "Source\\FSM\\Modifiers\\Dive\\DiveComboP2.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Dive\\DiveComboP2.cs",
+              "RelativeToolTip": "Source\\FSM\\Modifiers\\Dive\\DiveComboP2.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAA0wKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:28:46.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiveFollowUpModifier.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Dive\\DiveFollowUpModifier.cs",
+              "RelativeDocumentMoniker": "Source\\FSM\\Modifiers\\Dive\\DiveFollowUpModifier.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Dive\\DiveFollowUpModifier.cs",
+              "RelativeToolTip": "Source\\FSM\\Modifiers\\Dive\\DiveFollowUpModifier.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SlashComboModifier.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Slash Combo\\SlashComboModifier.cs",
+              "RelativeDocumentMoniker": "Source\\FSM\\Modifiers\\Slash Combo\\SlashComboModifier.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Slash Combo\\SlashComboModifier.cs",
+              "RelativeToolTip": "Source\\FSM\\Modifiers\\Slash Combo\\SlashComboModifier.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAiwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SethFsmController.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\SethFsmController.cs",
+              "RelativeDocumentMoniker": "Source\\FSM\\SethFsmController.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\SethFsmController.cs",
+              "RelativeToolTip": "Source\\FSM\\SethFsmController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CycloneModifier.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Cyclone\\CycloneModifier.cs",
+              "RelativeDocumentMoniker": "Source\\FSM\\Modifiers\\Cyclone\\CycloneModifier.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Cyclone\\CycloneModifier.cs",
+              "RelativeToolTip": "Source\\FSM\\Modifiers\\Cyclone\\CycloneModifier.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SethWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Main\\In-Game\\SethWrapper.cs",
+              "RelativeDocumentMoniker": "Source\\Main\\In-Game\\SethWrapper.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Main\\In-Game\\SethWrapper.cs",
+              "RelativeToolTip": "Source\\Main\\In-Game\\SethWrapper.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAADwv8kAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Main\\Constants.cs",
+              "RelativeDocumentMoniker": "Source\\Main\\Constants.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Main\\Constants.cs",
+              "RelativeToolTip": "Source\\Main\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShieldThrowFeint.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Shield Throw\\ShieldThrowFeint.cs",
+              "RelativeDocumentMoniker": "Source\\FSM\\Modifiers\\Shield Throw\\ShieldThrowFeint.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Shield Throw\\ShieldThrowFeint.cs",
+              "RelativeToolTip": "Source\\FSM\\Modifiers\\Shield Throw\\ShieldThrowFeint.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:50:54.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StateModifierBase.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\StateModifierBase.cs",
+              "RelativeDocumentMoniker": "Source\\FSM\\Modifiers\\StateModifierBase.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\StateModifierBase.cs",
+              "RelativeToolTip": "Source\\FSM\\Modifiers\\StateModifierBase.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SethFsmDumper.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\SethFsmDumper.cs",
+              "RelativeDocumentMoniker": "Source\\FSM\\SethFsmDumper.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\SethFsmDumper.cs",
+              "RelativeToolTip": "Source\\FSM\\SethFsmDumper.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GShieldThrowFollowUpModifier.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Shield Throw\\Ground\\GShieldThrowFollowUpModifier.cs",
+              "RelativeDocumentMoniker": "Source\\FSM\\Modifiers\\Shield Throw\\Ground\\GShieldThrowFollowUpModifier.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Shield Throw\\Ground\\GShieldThrowFollowUpModifier.cs",
+              "RelativeToolTip": "Source\\FSM\\Modifiers\\Shield Throw\\Ground\\GShieldThrowFollowUpModifier.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AShieldThrowFollowUpModifier.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Shield Throw\\Air\\AShieldThrowFollowUpModifier.cs",
+              "RelativeDocumentMoniker": "Source\\FSM\\Modifiers\\Shield Throw\\Air\\AShieldThrowFollowUpModifier.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\Modifiers\\Shield Throw\\Air\\AShieldThrowFollowUpModifier.cs",
+              "RelativeToolTip": "Source\\FSM\\Modifiers\\Shield Throw\\Air\\AShieldThrowFollowUpModifier.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CallMethodAction.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\Utils\\CallMethodAction.cs",
+              "RelativeDocumentMoniker": "Source\\CustomActions\\Utils\\CallMethodAction.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\Utils\\CallMethodAction.cs",
+              "RelativeToolTip": "Source\\CustomActions\\Utils\\CallMethodAction.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:15:21.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SendEventActionCustom.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\Utils\\SendEventActionCustom.cs",
+              "RelativeDocumentMoniker": "Source\\CustomActions\\Utils\\SendEventActionCustom.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\Utils\\SendEventActionCustom.cs",
+              "RelativeToolTip": "Source\\CustomActions\\Utils\\SendEventActionCustom.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:11:50.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeightedRandomEventAction.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\WeightedRandomEventAction.cs",
+              "RelativeDocumentMoniker": "Source\\CustomActions\\WeightedRandomEventAction.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\WeightedRandomEventAction.cs",
+              "RelativeToolTip": "Source\\CustomActions\\WeightedRandomEventAction.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Phase3CustomHandler.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\P3 Transition\\Phase3CustomHandler.cs",
+              "RelativeDocumentMoniker": "Source\\CustomActions\\P3 Transition\\Phase3CustomHandler.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\P3 Transition\\Phase3CustomHandler.cs",
+              "RelativeToolTip": "Source\\CustomActions\\P3 Transition\\Phase3CustomHandler.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SethPrimeMain.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Main\\SethPrimeMain.cs",
+              "RelativeDocumentMoniker": "Source\\Main\\SethPrimeMain.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Main\\SethPrimeMain.cs",
+              "RelativeToolTip": "Source\\Main\\SethPrimeMain.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayClipAction.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\Audio\\PlayClipAction.cs",
+              "RelativeDocumentMoniker": "Source\\CustomActions\\Audio\\PlayClipAction.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\Audio\\PlayClipAction.cs",
+              "RelativeToolTip": "Source\\CustomActions\\Audio\\PlayClipAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T02:19:46.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayClipDelayedAction.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\Audio\\PlayClipDelayedAction.cs",
+              "RelativeDocumentMoniker": "Source\\CustomActions\\Audio\\PlayClipDelayedAction.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\Audio\\PlayClipDelayedAction.cs",
+              "RelativeToolTip": "Source\\CustomActions\\Audio\\PlayClipDelayedAction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T02:20:06.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayRandomClipAction.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\Audio\\PlayRandomClipAction.cs",
+              "RelativeDocumentMoniker": "Source\\CustomActions\\Audio\\PlayRandomClipAction.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\Audio\\PlayRandomClipAction.cs",
+              "RelativeToolTip": "Source\\CustomActions\\Audio\\PlayRandomClipAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T02:20:15.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SetAllMusicSources.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\Audio\\SetAllMusicSources.cs",
+              "RelativeDocumentMoniker": "Source\\CustomActions\\Audio\\SetAllMusicSources.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\CustomActions\\Audio\\SetAllMusicSources.cs",
+              "RelativeToolTip": "Source\\CustomActions\\Audio\\SetAllMusicSources.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T02:20:24.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HealthChanger.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Main\\In-Game\\Changers\\HealthChanger.cs",
+              "RelativeDocumentMoniker": "Source\\Main\\In-Game\\Changers\\HealthChanger.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Main\\In-Game\\Changers\\HealthChanger.cs",
+              "RelativeToolTip": "Source\\Main\\In-Game\\Changers\\HealthChanger.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SethFsmLogger.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\SethFsmLogger.cs",
+              "RelativeDocumentMoniker": "Source\\FSM\\SethFsmLogger.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\SethFsmLogger.cs",
+              "RelativeToolTip": "Source\\FSM\\SethFsmLogger.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FsmHelper.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\FsmHelper.cs",
+              "RelativeDocumentMoniker": "Source\\FSM\\FsmHelper.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\FSM\\FsmHelper.cs",
+              "RelativeToolTip": "Source\\FSM\\FsmHelper.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AnimationPatch.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Patches\\AnimationPatch.cs",
+              "RelativeDocumentMoniker": "Source\\Patches\\AnimationPatch.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Patches\\AnimationPatch.cs",
+              "RelativeToolTip": "Source\\Patches\\AnimationPatch.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA7wEAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SethDamageOverride.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Patches\\SethDamageOverride.cs",
+              "RelativeDocumentMoniker": "Source\\Patches\\SethDamageOverride.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Patches\\SethDamageOverride.cs",
+              "RelativeToolTip": "Source\\Patches\\SethDamageOverride.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DamageChanger.cs",
+              "DocumentMoniker": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Main\\In-Game\\Changers\\DamageChanger.cs",
+              "RelativeDocumentMoniker": "Source\\Main\\In-Game\\Changers\\DamageChanger.cs",
+              "ToolTip": "C:\\Users\\carca\\OneDrive\\Bureau\\VSCode\\SethPrime - P1 FINI, Pattern P2 \u002B Pattern P3\\Source\\Main\\In-Game\\Changers\\DamageChanger.cs",
+              "RelativeToolTip": "Source\\Main\\In-Game\\Changers\\DamageChanger.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T00:00:28.934Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

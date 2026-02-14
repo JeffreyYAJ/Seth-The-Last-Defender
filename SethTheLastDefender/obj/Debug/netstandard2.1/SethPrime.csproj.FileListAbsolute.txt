@@ -1,0 +1,1444 @@
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SETH PRIME HP FONCTIONNE\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Save 1 Hp Max\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail sur le seuil P2\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 3, Attaques et dégats\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 5 VITESSES DES ATTAQUES\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 6 Perso selon phase + Combo\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 7 - P2 Custom\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail 8 Implémentation P3\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - Save 8 P3 implémenté + Anim - A faire modifier SlashCombo\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\carca\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, Pattern P2 + Pattern P3\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 A FINIR\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - P1 FINI, P2 P3 + TRANSI P3\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj Transi P3\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Obj filtre son + combos\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Fix trnasi P3 bug anim\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail Invul + Custom Combos\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Custom Combos\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug Musique + Titre\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Titre\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combos (bug hitbox duran tcombo\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out Follow Up\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo + Tele Out + Bruit Stun Séquence + Stun Debut\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Debug\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Combo P3, ajustage, bugs\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - Bug HitBox Combo, ajustage\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1 (Bug HurtBox Collisions)\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime - Travail - 1.1 Fait (bug hitbox, bug transi P2) P4\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Bug HitBox\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Importation Attaque\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail Explosion sur event\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.1.0 - Travail On Death\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 - Travail P4 Normal\obj\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\SethPrime.deps.json
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\SethPrime.pdb
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\Unity.InputSystem.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\obj\Debug\netstandard2.1\SethPrime.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\obj\Debug\netstandard2.1\SethPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\obj\Debug\netstandard2.1\SethPrime.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\obj\Debug\netstandard2.1\SethPrime.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\obj\Debug\netstandard2.1\SethPrime.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\obj\Debug\netstandard2.1\SethPrime.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\obj\Debug\netstandard2.1\SethPrime.dll
+C:\Users\Gamer\OneDrive\Bureau\VSCode\SethPrime 1.3.0 Classique\obj\Debug\netstandard2.1\SethPrime.pdb
